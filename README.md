@@ -1,1 +1,1 @@
-# Ecommerce API
+# NodeJS starter app
